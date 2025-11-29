@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\api",
+    "\\app\\api\\cars",
+    "\\app\\api\\cars\\[id]",
+    "\\app\\components",
+    "\\app\\edit",
+    "\\app\\edit\\[id]",
+    "\\app\\login",
+    "\\prisma"
+  ],
+  "PreviewInSolutionExplorer": false
+}
